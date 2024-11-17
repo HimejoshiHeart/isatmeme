@@ -1,0 +1,6 @@
+* {text-align: center; background-color: black; color: white;}
+h1 {font: Libre Baskerville; text-transform:uppercase}
+img {width: 100%;
+    height:auto;
+border: 5px outset white;}
+div {width:50%; margin-left:25%;}
